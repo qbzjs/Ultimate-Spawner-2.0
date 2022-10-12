@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KingsHalls/MainMenu.unity
+    guid: c084ead356b0b394eb06a4fa19c1c970
+  - enabled: 1
+    path: Assets/Scenes/KingsHalls/KingsHalls.unity
+    guid: 9949e570a7729574dbf8000532140536
+  - enabled: 1
+    path: Assets/Scenes/KingsHalls/PauseMenu.unity
+    guid: 3f52e6e0ede737b49a0198f45ea71dd5
+  m_configObjects: {}
