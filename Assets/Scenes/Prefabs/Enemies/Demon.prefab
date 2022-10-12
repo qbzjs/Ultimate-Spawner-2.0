@@ -1739,7 +1739,7 @@ GameObject:
   - component: {fileID: 7662418899582627582}
   - component: {fileID: 7763776690428646982}
   m_Layer: 9
-  m_Name: Character_SpiritDemon
+  m_Name: Character_TormentedSoul
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1780,7 +1780,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: caf01dd5152f3934d8079e6160aa3b1e, type: 2}
+  - {fileID: 2100000, guid: f672ea7954cdd2143b5b874699e82655, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1805,7 +1805,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300012, guid: be73df03abf02284486d1afabcf5d4fe, type: 3}
+  m_Mesh: {fileID: 4300042, guid: b6ef2f4d0154b2747860a3332fa05f97, type: 3}
   m_Bones:
   - {fileID: 7658445215536125152}
   - {fileID: 7662378162250239196}
@@ -2196,12 +2196,12 @@ GameObject:
   - component: {fileID: 7658599398670362970}
   - component: {fileID: 7764009513577334460}
   m_Layer: 9
-  m_Name: Character_SpiritDemon_Glow
+  m_Name: Character_TormentedSoul_Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7658599398670362970
 Transform:
   m_ObjectHideFlags: 0
@@ -2237,7 +2237,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 38f9988fa98c8394da802b18b5a52408, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
